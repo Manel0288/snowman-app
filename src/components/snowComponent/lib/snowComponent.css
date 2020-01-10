@@ -1,0 +1,67 @@
+.mario{
+    background-image: url("../../../assets/mario.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.petit{
+    background-image: url("../../../assets/petit.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.moyen{
+    background-image: url("../../../assets/moyen.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.grand{
+    background-image: url("../../../assets/grand.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.up{
+    background-image: url("../../../assets/up.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.down{
+    background-image: url("../../../assets/down.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.right{
+    background-image: url("../../../assets/right.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.left{
+    background-image: url("../../../assets/left.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.moyGr {
+
+    background-image: url("../../../assets/grand.png"), url("../../../assets/moyen.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom center, top 10px center;
+    background-size: 65px, 45px;
+
+}
+
+.ptMoyGr {
+
+    background-image: url("../../../assets/grand.png"), url("../../../assets/moyen.png"), url("../../../assets/petit.png");
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: bottom center, top 10px center, top center;
+    background-size: 65px, 45px, 25px;
+
+}
+
+
+
